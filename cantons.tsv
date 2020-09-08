@@ -1,0 +1,28 @@
+kz	Kanton	Kantonsnummer	Beitritt	Hauptort	Einwohner	Fläche(km²)	Einwohnerdichte	Amtssprache
+ZH	Kanton Zürich Zürich	01	1351	Zürich	1520968	1729	880	Deutsch
+BE	Kanton Bern Bern	02	1353	Bern	1034977	5959	174	Deutsch, Französisch
+VD	Kanton Waadt Waadt	22	1803	Lausanne	799145	3212	249	Französisch
+AG	Kanton Aargau Aargau	19	1803	Aarau	685424	1404	488	Deutsch
+SG	Kanton St. Gallen St. Gallen	17	1803	St. Gallen	507697	2026	251	Deutsch
+GE	Kanton Genf Genf	25	1815	Genf	499480	282	1771	Französisch
+LU	Kanton Luzern Luzern	03	1332	Luzern	409557	1493	274	Deutsch
+TI	Kanton Tessin Tessin	21	1803	Bellinzona	353343	2812	126	Italienisch
+VS	Kanton Wallis Wallis	23	1815	Sitten	343955	5224	66	Französisch, Deutsch:
+FR	Kanton Freiburg Freiburg	10	1481	Freiburg	318714	1671	191	Französisch, Deutsch
+BL	Kanton Basel-Landschaft Basel-Landschaft	13	1501	Liestal	288132	518	556	Deutsch
+TG	Kanton Thurgau Thurgau	20	1803	Frauenfeld	276472	991	279	Deutsch
+SO	Kanton Solothurn Solothurn	11	1481	Solothurn	273194	791	345	Deutsch
+GR	Kanton Graubünden Graubünden	18	1803	Chur	198379	7105	28	Deutsch, Rätoromanisch, Italienisch
+BS	Kanton Basel-Stadt Basel-Stadt	12	1501	Basel	194766	37	5264	Deutsch
+NE	Kanton Neuenburg Neuenburg	24	1815	Neuenburg	176850	803	220	Französisch
+SZ	Kanton Schwyz Schwyz	05	7 1291	Schwyz	159165	908	175	Deutsch
+ZG	Kanton Zug Zug	09	1352	Zug	126837	239	531	Deutsch
+SH	Kanton Schaffhausen Schaffhausen	14	1501	Schaffhausen	81991	298	275	Deutsch
+JU	Kanton Jura Jura	26	1979	Delsberg	73419	838	88	Französisch
+AR	Kanton Appenzell Ausserrhoden Appenzell Ausserrhoden	15	1513	Herisau, Trogen5	55234	243	227	Deutsch
+NW	Kanton Nidwalden Nidwalden	07	7 1291	Stans	43223	276	157	Deutsch
+GL	Kanton Glarus Glarus	08	1352	Glarus	40403	685	59	Deutsch
+OW	Kanton Obwalden Obwalden	06	7 1291	Sarnen	37841	491	77	Deutsch
+UR	Kanton Uri Uri	04	7 1291	Altdorf	36433	1077	34	Deutsch
+AI	Kanton Appenzell Innerrhoden Appenzell Innerrhoden	16	1513	Appenzell	16145	173	93	Deutsch
+CH	Eidgenössisches Wappen Schweizerische Eidgenossenschaft		7 1291	Bern(Bundesstadt)	8039060	41285	195	Deutsch (63,7%),Französisch (20,4%),Italienisch (6,5%),Rätoromanisch (0,5%)
